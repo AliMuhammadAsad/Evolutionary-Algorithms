@@ -59,5 +59,6 @@ The best result I achieved for **TSP** was **9854** and the following parameters
 - **Offsprings**: 70
 - **Mutation Rate**: 95%
 - **Greedy Initialization of Population**
+
 The result is as follows:
 <img align="center" src="report/Results/best_tsp_rank_trunc.png" width="75%"/>
