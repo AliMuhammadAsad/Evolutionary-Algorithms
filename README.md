@@ -9,7 +9,9 @@ The main problems optimized in this assignment are:
 - **Job Shop Scheduling Problem (JSSP)**
 
 ### Travelling Salesman Problem (TSP)
-TSP asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" <img align="right" src="data/tsp.png" width="25%" />
+TSP asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city exactly once and returns to the origin city?" 
+
+<img align="center" src="data/tsp.png" width="50%" />
 
 For the purpose of this assignment, the Qatar dataset was used that contains 194 cities. The optimal tour reported so far for this dataset is of length **9352**, (and the best achieved by any student previously in this course was **9939** - we beat this score to **9854**). The dataset and its related details can be found [here](http://www.math.uwaterloo.ca/tsp/world/countries.html) - Qatar dataset was used from here. 
 
